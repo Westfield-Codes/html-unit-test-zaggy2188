@@ -1,0 +1,20 @@
+body {
+  width:90%;
+}
+
+th {
+  vertical-align:top;
+}
+
+td {
+    padding:5px;
+    vertical-align:center;
+}
+
+th {
+  text-align:center;
+}
+
+ul {
+   margin:0;
+}
