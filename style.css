@@ -1,9 +1,12 @@
 body {
   width:90%;
+  margin:auto;
 }
 
 th {
   vertical-align:top;
+  text-align:center;
+  background-color:#C9DAF8;
 }
 
 td {
@@ -12,9 +15,18 @@ td {
 }
 
 th {
-  text-align:center;
+  
 }
 
 ul {
    margin:0;
+}
+
+#organization {
+  margin:auto;
+  width:900px;
+  text-align:center;
+}
+table{
+  text-align:left;
 }
